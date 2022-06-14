@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndoorGPS</string>
+    <string name="indoor_gps">INDOOR GPS</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="todo">TODO</string>
+</resources>
